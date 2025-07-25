@@ -1,14 +1,11 @@
-# 👋 Hey there, I'm Abdullah Nadim
+👋 Hi, I'm Abdullah Nadim
 
-I'm passionate about turning data into insights—and I'm on a journey to sharpen my analytical skills every single day. This profile is a glimpse into that journey.
+I'm passionate about transforming data into actionable insights. This profile showcases my journey as I continue to sharpen my skills in analytics, visualization, and data-driven problem solving.
 
-## 🎯 What I'm About
+🎯 What I Focus On:
+- Analyzing real-world datasets to uncover patterns and drive decisions
+- Continuously learning and improving across SQL, Python, Excel, and visualization tools
+- Combining curiosity with a structured, methodical approach to analysis
 
-- 📈 Working on real-world data projects to explore patterns, solve problems, and ask better questions
-- 🛠️ Constantly learning—whether it's refining my SQL queries or experimenting with new visualization tools
-- 🧠 Curious by nature, methodical by choice
-
-## 🌱 Why I'm Here
-
-This isn't a portfolio of perfection—it's a growing garden of experiments, lessons, and progress. Each project is a step toward becoming the data analyst I aspire to be.
-
+🌱 About This Portfolio:
+Each project here reflects growth, experimentation, and progress toward my goal of becoming a well-rounded data analyst. I view this portfolio not as a finished product, but as an evolving space for learning and impact.
