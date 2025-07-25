@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey there, I'm Abdullah Nadim
 
-<!--
-**Abdullah-nadimm/Abdullah-nadimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about turning data into insights—and I'm on a journey to sharpen my analytical skills every single day. This profile is a glimpse into that journey.
 
-Here are some ideas to get you started:
+## 🎯 What I'm About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 Working on real-world data projects to explore patterns, solve problems, and ask better questions
+- 🛠️ Constantly learning—whether it's refining my SQL queries or experimenting with new visualization tools
+- 🧠 Curious by nature, methodical by choice
+
+## 🌱 Why I'm Here
+
+This isn't a portfolio of perfection—it's a growing garden of experiments, lessons, and progress. Each project is a step toward becoming the data analyst I aspire to be.
+
+## 🔬 Projects That Keep Me Learning
+
+- **🧬 Breast Cancer Tumor Analysis**  
+  Exploring diagnostic data to identify patterns and correlations using Python & SQL  
+- **📊 Sales Performance & Profitability Dashboard**  
+  Building clear visual narratives around revenue trends and business health
+  
+Each one pushes me to ask better questions, dive deeper into the data, and build something useful.
+
+
