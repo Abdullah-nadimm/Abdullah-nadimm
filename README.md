@@ -8,4 +8,5 @@ I'm passionate about transforming data into actionable insights. This profile sh
 - Combining curiosity with a structured, methodical approach to analysis
 
 🌱 About This Portfolio:
-Each project here reflects growth, experimentation, and progress toward my goal of becoming a well-rounded data analyst. I view this portfolio not as a finished product, but as an evolving space for learning and impact.
+
+ Each project here reflects growth, experimentation, and progress toward my goal of becoming a well-rounded data analyst. I view this portfolio not as a finished product, but as an evolving space for learning and impact.
